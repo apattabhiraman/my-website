@@ -16,7 +16,7 @@ main .hero-container {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  color: white;
+  color: rgb(160, 23, 23);
 }
 
 .hero picture {
